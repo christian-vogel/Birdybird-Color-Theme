@@ -1,0 +1,22 @@
+{
+    "name": "birdybird",
+    "displayName": "Birdybird",
+    "description": "Another dark color theme with optimal contrasts",
+    "version": "0.0.1",
+    "publisher": "smokeyjoe",
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Birdybird Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Birdybird Color Theme-color-theme.json"
+            }
+        ]
+    }
+}
