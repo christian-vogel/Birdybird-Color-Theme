@@ -24,9 +24,6 @@
 	"galleryBanner": {
 		"color": "#00CCFF"
 	},
-	"engines": {
-		"vscode": "^1.0.0"
-	},
     "categories": [
         "Themes"
     ],
