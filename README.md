@@ -4,7 +4,7 @@
 
 Color scheme inspired by the [Hopscotch Color Theme](https://github.com/idleberg/Hopscotch)
 
-# Test
+![Screenshot](https://https://github.com/christian-vogel/Birdybird-Color-Theme/screenshot.png)
 
 * Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
 * Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
