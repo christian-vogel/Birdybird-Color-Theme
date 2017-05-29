@@ -2,8 +2,9 @@
 
 [![Creative Commons](https://img.shields.io/badge/license-CC0%201.0-orange.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-## This is the README for your extension "birdybird"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+Color scheme inspired by the [Hopscotch Color Theme](https://github.com/idleberg/Hopscotch)
+
+# Test
 
 * Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
 * Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
