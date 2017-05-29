@@ -10,12 +10,6 @@ Also [available](https://github.com/christian-vogel/Birdybird-Color-Theme)
 
 ## Installation
 
-### Extension Marketplace
-
-Launch Quick Open, paste the following command, and press <kbd>Enter</kbd>
-
-`ext install birdybird`
-
 ### Clone Repository
 
 Change to your Visual Studio Code extensions directory:
