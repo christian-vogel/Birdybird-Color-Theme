@@ -2,7 +2,7 @@
     "name": "birdybird",
     "displayName": "Birdybird",
     "description": "Another dark color theme with optimal contrasts",
-    "version": "0.0.4",
+    "version": "1.0.0",
     "publisher": "smokeyjoe",
 	"license": "CC0-1.0",
     "engines": {
@@ -22,7 +22,7 @@
 	"icon": "images/logo.jpg",
 
 	"galleryBanner": {
-		"color": "#00CCFF"
+		"color": "#F1F1F1"
 	},
     "categories": [
         "Themes"

@@ -2,11 +2,9 @@
 
 [![Creative Commons](https://img.shields.io/badge/license-CC0%201.0-orange.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-Color scheme inspired by the [Hopscotch Color Theme](https://github.com/idleberg/Hopscotch)
+![Screenshot](https://github.com/christian-vogel/Birdybird-Color-Theme/blob/master/screenshot.jpg?raw=true)
 
-![Screenshot](https://github.com/christian-vogel/Birdybird-Color-Theme/blob/master/screenshot.jpg)
-
-Also [available](https://github.com/christian-vogel/Birdybird-Color-Theme)
+Also [available on github](https://github.com/christian-vogel/Birdybird-Color-Theme)
 
 ## Installation
 
