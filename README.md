@@ -6,12 +6,34 @@ Color scheme inspired by the [Hopscotch Color Theme](https://github.com/idleberg
 
 ![Screenshot](https://https://github.com/christian-vogel/Birdybird-Color-Theme/blob/master/screenshot.png)
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+Also [available](https://github.com/christian-vogel/Birdybird-Color-Theme)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Installation
 
-**Enjoy!**
+### Extension Marketplace
+
+Launch Quick Open, paste the following command, and press <kbd>Enter</kbd>
+
+`ext install birdybird`
+
+### Clone Repository
+
+Change to your Visual Studio Code extensions directory:
+
+```bash
+# Windows
+$ cd %USERPROFILE%\.vscode\extensions
+
+# Linux & macOS
+$ cd ~/.vscode/extensions/
+```
+
+Clone repository as `birdybird`:
+
+```bash
+$ git clone https://github.com/christian-vogel/Birdybird-Color-Theme birdybird
+```
+
+## License
+
+This work is licensed under the [Creative Commons CC0 1.0 Universal License](http://creativecommons.org/publicdomain/zero/1.0/legalcode).
