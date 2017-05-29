@@ -4,7 +4,7 @@
 
 Color scheme inspired by the [Hopscotch Color Theme](https://github.com/idleberg/Hopscotch)
 
-![Screenshot](https://https://github.com/christian-vogel/Birdybird-Color-Theme/blob/master/screenshot.png)
+![Screenshot](https://github.com/christian-vogel/Birdybird-Color-Theme/blob/master/screenshot.jpg)
 
 Also [available](https://github.com/christian-vogel/Birdybird-Color-Theme)
 
