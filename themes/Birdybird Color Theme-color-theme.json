@@ -37,7 +37,7 @@
 			"name": "Comments",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#384887"
+				"foreground": "#BB00FF"
 			}
 		},
 		{
@@ -150,7 +150,7 @@
 			"scope": "entity.other.attribute-name",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#0099FF"
+				"foreground": "#26C5FF"
 			}
 		},
 		{
